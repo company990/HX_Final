@@ -1,0 +1,10 @@
+# Local caches and development logs
+__pycache__/
+*.pyc
+*.log
+*.logw
+*.vcd
+*.fst
+**/td_project/log/
+# Large optional PC runtime is included in release/HX_Final.zip
+/tools/PC_SENDER/tools/ffmpeg/**/bin/ffmpeg.exe
